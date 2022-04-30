@@ -1,0 +1,26 @@
+### Hi there, Edgar Pech here! 👋
+Front end Jr developer
+
+I'm working on personal proyect on front end side to improve my code skills with principal technologies, HTML, CSS and JavaScript, and looking for a front end job as junior level.
+
+
+My social media:
+
+- [My webpage](https://new-website-eight.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/nfsedg/)
+- [Twitter](https://twitter.com/scharizard)
+
+<!--
+**Nfsedg/Nfsedg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
