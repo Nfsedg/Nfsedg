@@ -7,7 +7,7 @@ I'm working on personal proyect on front end side to improve my code skills with
 My social media:
 
 - [My webpage](https://new-website-eight.vercel.app/)
-- [![linkedin](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png)][2][LinkedIn](https://www.linkedin.com/in/nfsedg/)
+- [LinkedIn](https://www.linkedin.com/in/nfsedg/)
 - [Twitter](https://twitter.com/scharizard)
 
 <!--
