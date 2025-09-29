@@ -1,5 +1,5 @@
 ### Hi there, Edgar Pech here! 👋
-Front end Jr developer
+Front end developer
 
 I'm working on personal proyect on front end side to improve my code skills with principal technologies, HTML, CSS and JavaScript, and looking for a front end job as junior level.
 
